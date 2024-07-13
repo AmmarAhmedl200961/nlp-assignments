@@ -13,7 +13,6 @@ This repository contains a series of assignments and projects completed as part 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
@@ -39,7 +38,7 @@ Implemented a seq2seq paradigm using transformer models such as BERT, MobileBERT
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/nlp-assignments.git
+git clone https://github.com/AmmarAhmedl200961/nlp-assignments.git
 ```
 
 Navigate to the project directory:
